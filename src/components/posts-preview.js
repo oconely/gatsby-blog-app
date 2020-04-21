@@ -1,6 +1,6 @@
 import React from 'react';
 import { css } from '@emotion/core';
-import { link, Link } from 'gatsby';
+import { Link } from 'gatsby';
 import ReadLink from './read-link';
 
 const PostPreview = ({ post }) => (
